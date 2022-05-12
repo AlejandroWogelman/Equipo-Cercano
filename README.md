@@ -1,3 +1,10 @@
+Utilizacion de consumo de Apis, Mapas, Geocoding, Redux. 
+Búsqueda del Equipo de Primera más Proximo a tu Ciudad (Argentina)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
